@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Uhl's Website Design Elements!</title>
+  </head>
+  <body>
+    <header>
+      <!-- Site title or navigation -->
+    </header>
+    <main>
+      <!-- Main content goes here -->
+    </main>
+    <footer>
+      <!-- Footer information -->
+    </footer>
+  </body>
+</html>

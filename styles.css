@@ -1,0 +1,161 @@
+body {
+  background-color: #faf9f6; 
+  color: #0b202f;
+}
+* {
+   border: none;}
+.box2 {
+    border: 2px solid #0b202f;
+}
+
+.topheading {
+    color: #0b202f;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Viaoda Libre', cursive;
+    margin-bottom: 20px;
+}
+p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    margin: 10px;
+    font-weight: bold;
+}
+.para1 { 
+    color: #faf9f6 ;
+}
+.para2 { 
+    color: #0b202f ;
+    
+}
+.para3 { 
+    color: #0b202f; 
+}
+div {
+      border: none;
+}
+.box1, .box2, .box3, .box4 {
+  padding: 10px;
+}
+
+.container-a {
+  display: flex;
+  justify-content: center;
+  border: none;
+  gap: 20px;
+  padding-bottom: 50px;
+}
+.container-b {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  padding: 0 80px;
+  box-sizing: border-box;
+}
+
+  .font-section {
+  width: 75%;
+  
+}
+.font-section {
+  width: 900px; /* or any value you choose */
+  box-sizing: border-box;
+  margin-bottom: 40px; /* space between sections */
+}
+
+
+
+
+.subheading-a {
+    text-align: left;
+    font-family: 'Viaoda Libre', cursive;
+    font-size: 48px;
+    width: 100%;
+
+}
+.p-5 {
+    text-align: left;
+    font-family: 'Viaoda Libre', cursive;
+    font-size: 20px;
+
+}
+.subheading-b {
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    width: 100%;
+}
+.p-5bold {
+    font-style: italic;
+    font-family: 'Viaoda Libre', cursive;
+    font-size: 20px;
+}
+.p-5underline {
+    text-decoration: underline;
+    font-family: 'Viaoda Libre', cursive;
+    font-size: 20px;
+
+}
+
+.p-6 {
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+
+
+}
+.p-6bold {
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    
+
+}
+
+.p-6underline {
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    text-decoration: underline;
+}
+fontusage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    width: 100%;
+    padding-left: 80px;
+  padding-right: 80px;
+}
+
+.font-section,
+.fontusage {
+  width: 75%;
+  max-width: 900px;
+  margin-bottom: 40px;
+}
+.subheading-c,
+.subheading-d,
+.ula,
+.subheading-e,
+.ulb {
+  font-family: "Viaoda Libre", cursive;
+}
+
+.subheading-f,
+.ulc {
+  font-family: "Raleway", sans-serif;
+}
+.ula {
+    font-size: 28px;
+}
+
+.ulb {
+    font-size: 22px;
+}
+.ulc {
+    font-size: 16px;
+}
